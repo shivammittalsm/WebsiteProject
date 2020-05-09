@@ -1,0 +1,36 @@
+.newcolor{
+    font-size: 20px;
+    background-color: #ff4534;
+}
+.bcolor{
+    background-color:#dfeefd;
+}
+.aboutbcolor{
+    background-color: #e9f2f8;
+}
+.psize{
+    font-size: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.gcontent{
+    margin-left: 18px;
+    color: #ff4534;
+    font-size: 16px;
+}
+.ghead{
+    margin-left: 15px;
+    font-size: 17px;
+    color: brown;
+}
+.aboutheading{
+    background-color: burlywood;
+}
+.colcontent{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 22px;
+}
+.cstext{
+    font-size: 20px;
+}
